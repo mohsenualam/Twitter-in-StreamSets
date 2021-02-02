@@ -1,18 +1,1 @@
-{"add": 
-	[
-	
-		{"value": "from:mohsenalam14 from:lunettto lang:en", "tag": "test users in English"},
-
-		{"value": "CEO has:links lang:en", "tag": "tweets about CEO in english" },
-
-		{"value": "CEO said lang:en", "tag": "tweets about CEO in english" },
-
-		{"value": "#CEO lang:en", "tag": "tweets about CEO in english" },
-
-
-		{"value": "from:benioff from:richardbranson from:bill_gross from:chrisbrogan 	from:briansolis from:jon_ferrara from:mcuban from:garyvee from:jack from:levie from:stevecase from:rwang0 from:romanstanek from:petercashmore from:steveforbesceo from:timoreilly from:elonmusk from:bhalligan from:charleneli from:donaldtrump from:michaeldell from:CEO_INGDIRECT from:andrewgrill from:wendyslea from:billgates from:shervin from:mickyarison lang:en", "tag": "CEOs tweet in english" },
-
-		{"value": "from:markfidelman from:marissamayer from:rupertmurdoch from:aneelb from:mtbert from:kevinrose from:bryankramer from:dens from:dickc from:davidmorin from:manpowergroupjj from:michellerhee from:invoker from:davidkarp from:drewhouston from:jeffweiner from:jeremys from:eldsjal from:NPRgaryknell from:amfamjack from:peretti from:andrewmason from:westernunionCEO from:tim_cook lang:en", "tag": "CEOs tweet in english"}
-
-  		]
-	}
+# Redacted: https://github.com/dratify 
